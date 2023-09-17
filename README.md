@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rohanraj091099@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19GHYb4L4a05DVpNSQzJo54JPhlWymj5o/view?usp=drive_link](https://drive.google.com/file/d/19GHYb4L4a05DVpNSQzJo54JPhlWymj5o/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1CUb7Ee5R0SWIsS32hPa1SZcd_ZPtLw6u/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
