@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rohan Raj</h1>
-<h3 align="center">A Passionate Frontend Developer and Learner.</h3>
+<h3 align="center">A Passionate Mern Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajrohan10899&label=Profile%20views&color=0e75b6&style=flat" alt="rajrohan10899" /> </p>
 
